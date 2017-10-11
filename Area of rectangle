@@ -1,0 +1,4 @@
+a=input("Enter length")
+b=input("Enter breadth")
+area=("Area of rectangle is",a*b)
+print (area)
